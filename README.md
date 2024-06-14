@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dashlet26
 - 👀 I’m interested in learning new things and gaining experience 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA and PYTHON
 - 💞️ I’m looking to collaborate on GSOC2024
 - 📫 How to reach me here is my email id - saragmotghare3@gmail.com
 - 😄 Pronouns : ....
